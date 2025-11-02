@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🎮 Avenox — Job System</h1>
-<p align="center">Offizielle Spieler-Dokumentation für das Job-System auf <strong>Avenox.eu</strong> — modern, clean & spielerfreundlich.</p>
+<p align="center">Offizielle Spieler-Dokumentation für das Job-System auf <strong>Avenox.eu</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jobs-14-2bff6b?style=flat-square" alt="Jobs count" />
